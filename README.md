@@ -1,6 +1,6 @@
 # 🇧🇷 Portfólio Pessoal / 🇺🇸 Personal Portfolio
 
-🇧🇷 Meu portifólio pessoal, com descrições sobre mim, habilidades, projetos e meu contato.
+🇧🇷 Meu portfólio pessoal, com descrições sobre mim, habilidades, projetos e meu contato.
 
 🇺🇸 My personal portfolio, with my description, skills, projects and my contact.
 
